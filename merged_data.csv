@@ -1,0 +1,17 @@
+User ID,User Name,Age,Location,Registration Date,Phone,Email,Favorite Meal,Total Orders,Session ID,Dish Name,Meal Type,Duration (mins),Session Rating,Order ID,Order Date,Order Status,Amount (USD),Time of Day,Rating
+U001,Alice Johnson,28,New York,2023-01-15,123-456-7890,alice@email.com,Dinner,12,S001,Spaghetti,Dinner,30,4.5,1001,2024-12-01,Completed,15.0,Night,5.0
+U001,Alice Johnson,28,New York,2023-01-15,123-456-7890,alice@email.com,Dinner,12,S004,Pancakes,Breakfast,30,4.2,1004,2024-12-02,Completed,8.0,Morning,4.0
+U001,Alice Johnson,28,New York,2023-01-15,123-456-7890,alice@email.com,Dinner,12,S009,Grilled Chicken,Dinner,40,4.9,1009,2024-12-05,Completed,12.0,Night,5.0
+U002,Bob Smith,35,Los Angeles,2023-02-20,987-654-3210,bob@email.com,Lunch,8,S002,Caesar Salad,Lunch,20,4.0,1002,2024-12-01,Completed,10.0,Day,4.0
+U002,Bob Smith,35,Los Angeles,2023-02-20,987-654-3210,bob@email.com,Lunch,8,S006,Spaghetti,Dinner,30,4.3,1006,2024-12-03,Completed,14.0,Night,4.0
+U002,Bob Smith,35,Los Angeles,2023-02-20,987-654-3210,bob@email.com,Lunch,8,S010,Oatmeal,Breakfast,10,4.1,1010,2024-12-05,Completed,7.0,Morning,4.0
+U003,Charlie Lee,42,Chicago,2023-03-10,555-123-4567,charlie@email.com,Breakfast,15,S003,Grilled Chicken,Dinner,40,4.8,1003,2024-12-02,Canceled,12.5,Night,4.6
+U003,Charlie Lee,42,Chicago,2023-03-10,555-123-4567,charlie@email.com,Breakfast,15,S008,Veggie Burger,Lunch,20,4.4,1008,2024-12-04,Canceled,11.0,Day,4.0
+U003,Charlie Lee,42,Chicago,2023-03-10,555-123-4567,charlie@email.com,Breakfast,15,S011,Pancakes,Breakfast,30,4.6,1011,2024-12-06,Completed,8.5,Morning,4.0
+U004,David Brown,27,San Francisco,2023-04-05,444-333-2222,david@email.com,Dinner,10,S005,Caesar Salad,Lunch,15,4.7,1005,2024-12-03,Completed,9.0,Day,4.0
+U004,David Brown,27,San Francisco,2023-04-05,444-333-2222,david@email.com,Dinner,10,S012,Spaghetti,Dinner,40,4.7,1012,2024-12-06,Completed,12.5,Night,4.0
+U005,Emma White,30,Seattle,2023-05-22,777-888-9999,emma@email.com,Lunch,9,S007,Grilled Chicken,Dinner,45,4.6,1007,2024-12-04,Completed,13.5,Night,4.0
+U005,Emma White,30,Seattle,2023-05-22,777-888-9999,emma@email.com,Lunch,9,S013,Caesar Salad,Lunch,30,4.4,1013,2024-12-07,Completed,9.0,Day,4.0
+U006,Frank Green,25,Austin,2023-06-15,888-777-6666,frank@email.com,Dinner,7,S014,Grilled Chicken,Dinner,45,4.8,1014,2024-12-07,Completed,13.0,Night,5.0
+U007,Grace King,38,Boston,2023-07-02,999-888-7777,grace@email.com,Breakfast,14,S015,Spaghetti,Dinner,40,5.0,1015,2024-12-08,Completed,14.0,Night,5.0
+U008,Henry Lee,31,Miami,2023-08-11,101-202-3030,henry@email.com,Dinner,5,S016,Veggie Burger,Lunch,20,4.3,1016,2024-12-08,Completed,11.0,Day,4.0
